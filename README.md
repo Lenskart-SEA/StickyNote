@@ -16,6 +16,6 @@ Explain in simple words how to run your project within your README file. Create 
 For implementation you should and can only use Javascript, HTML5, CSS3. It will be great if you are able to deploy a working version of the page.
 
 Remarks:
-Feel free to add anything you find meaningful to your application as long as the above requirements are met.
 
+Attached image is just an example, Feel free to build the app anyway you see fit, and add anything you find meaningful to your application as long as the above requirements are met.
 ![image](example.png)
