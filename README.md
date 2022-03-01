@@ -17,3 +17,5 @@ For implementation you should and can only use Javascript, HTML5, CSS3. It will 
 
 Remarks:
 Feel free to add anything you find meaningful to your application as long as the above requirements are met.
+
+![image](example.png)
