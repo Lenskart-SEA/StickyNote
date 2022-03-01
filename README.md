@@ -10,10 +10,10 @@ Create a single page Sticky note app. The user should be able to:
 - Save all your notes (Persistence in browser),
 - Add new notes,
 - Delete notes,
-- Filter notes on title thanks to a search bar
+- Filter notes on title using to a search bar
 
-Explain in simple words how to install and run your project within your README file. Create a public github repository that you will send to us.
-For implementation you should and can only use Javascript, HTML5, CSS3.
+Explain in simple words how to run your project within your README file. Create a public github repository that you will send to us.
+For implementation you should and can only use Javascript, HTML5, CSS3. It will be great if you are able to deploy a working version of the page.
 
 Remarks:
 Feel free to add anything you think meaningful to your application as long as the above requirements are met.
