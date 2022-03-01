@@ -7,7 +7,7 @@ We will be looking out clean code and documentation, responsiveness and your use
 #### Requirements:
 Create a single page Sticky note app. The user should be able to:
 - Edit the title and content of the notes,
-- Save all your notes (Persistence),
+- Save all your notes (Persistence in browser),
 - Add new notes,
 - Delete notes,
 - Filter notes on title thanks to a search bar
